@@ -10,7 +10,7 @@ Data Preprocessing:
 Models Used:
     K-Nearest Neighbors (KNN)
     Decision Tree
-    Random Forest
+    Random Forest 
 
 Hyperparameter Tuning:
     Optimize model parameters to improve prediction accuracy.
