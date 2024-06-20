@@ -6,7 +6,7 @@ Objective:
 Data Preprocessing: 
      Handle missing values.
      Extract relevant features like date, airline, source, destination, and class.
-
+ 
 Models Used:
     K-Nearest Neighbors (KNN)
     Decision Tree
