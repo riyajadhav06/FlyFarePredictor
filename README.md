@@ -3,7 +3,7 @@
 Objective:
      Predict flight prices to help users book flights at the best possible rates.
 
-Data Preprocessing:
+Data Preprocessing: 
      Handle missing values.
      Extract relevant features like date, airline, source, destination, and class.
 
